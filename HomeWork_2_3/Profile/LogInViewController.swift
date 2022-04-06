@@ -65,9 +65,17 @@ class LogInViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.setupNavigationBar()
         self.setupView()
         
     }
+    
+    private func setupNavigationBar() {
+        self.navigationController?.navigationBar.prefersLargeTitles = false
+        //скрываем заголовок navigationBar именно у этого navigationController
+        self.navigationController?.navigationBar.isHidden = true
+    }
+    
     
     private func setupView() {
         
