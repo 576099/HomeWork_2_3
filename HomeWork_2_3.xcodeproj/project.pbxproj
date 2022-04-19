@@ -17,18 +17,11 @@
 		498187E927EDE0420015EB86 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498187E527EDE0420015EB86 /* FeedViewController.swift */; };
 		498187EC27EDE04A0015EB86 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498187EA27EDE04A0015EB86 /* ProfileViewController.swift */; };
 		498187ED27EDE04A0015EB86 /* ProfileTableHederView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498187EB27EDE04A0015EB86 /* ProfileTableHederView.swift */; };
-		498187EF27EDE0510015EB86 /* gdun.png in Resources */ = {isa = PBXBuildFile; fileRef = 498187EE27EDE0510015EB86 /* gdun.png */; };
 		498187F127EDE0600015EB86 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498187F027EDE0600015EB86 /* Post.swift */; };
-		498187F327EDE4440015EB86 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 498187F227EDE4440015EB86 /* logo.png */; };
 		498187F727EDE6190015EB86 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498187F627EDE6190015EB86 /* LogInViewController.swift */; };
-		498187FB27EF3C770015EB86 /* blue_pixel.png in Resources */ = {isa = PBXBuildFile; fileRef = 498187FA27EF3C770015EB86 /* blue_pixel.png */; };
 		49D5FF5927FB006D00B991C9 /* UIColor+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D5FF5827FB006D00B991C9 /* UIColor+extension.swift */; };
 		49D5FF5B27FC69FD00B991C9 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D5FF5A27FC69FD00B991C9 /* PostTableViewCell.swift */; };
 		49D5FF5E27FC87BD00B991C9 /* Setupable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D5FF5D27FC87BD00B991C9 /* Setupable.swift */; };
-		49D5FF7327FD939400B991C9 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D5FF6F27FD939400B991C9 /* 3.png */; };
-		49D5FF7427FD939400B991C9 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D5FF7027FD939400B991C9 /* 2.png */; };
-		49D5FF7527FD939400B991C9 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D5FF7127FD939400B991C9 /* 4.png */; };
-		49D5FF7627FD939400B991C9 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D5FF7227FD939400B991C9 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,18 +37,11 @@
 		498187E527EDE0420015EB86 /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		498187EA27EDE04A0015EB86 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		498187EB27EDE04A0015EB86 /* ProfileTableHederView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileTableHederView.swift; sourceTree = "<group>"; };
-		498187EE27EDE0510015EB86 /* gdun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gdun.png; sourceTree = "<group>"; };
 		498187F027EDE0600015EB86 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
-		498187F227EDE4440015EB86 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		498187F627EDE6190015EB86 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
-		498187FA27EF3C770015EB86 /* blue_pixel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue_pixel.png; sourceTree = "<group>"; };
 		49D5FF5827FB006D00B991C9 /* UIColor+extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+extension.swift"; sourceTree = "<group>"; };
 		49D5FF5A27FC69FD00B991C9 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		49D5FF5D27FC87BD00B991C9 /* Setupable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Setupable.swift; sourceTree = "<group>"; };
-		49D5FF6F27FD939400B991C9 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
-		49D5FF7027FD939400B991C9 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		49D5FF7127FD939400B991C9 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
-		49D5FF7227FD939400B991C9 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,13 +96,6 @@
 		498187DF27EDDFE30015EB86 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				49D5FF7227FD939400B991C9 /* 1.png */,
-				49D5FF7027FD939400B991C9 /* 2.png */,
-				49D5FF6F27FD939400B991C9 /* 3.png */,
-				49D5FF7127FD939400B991C9 /* 4.png */,
-				498187EE27EDE0510015EB86 /* gdun.png */,
-				498187F227EDE4440015EB86 /* logo.png */,
-				498187FA27EF3C770015EB86 /* blue_pixel.png */,
 				498187D327EDDFC70015EB86 /* Assets.xcassets */,
 				498187D527EDDFC70015EB86 /* LaunchScreen.storyboard */,
 				498187D827EDDFC70015EB86 /* Info.plist */,
@@ -221,15 +200,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49D5FF7627FD939400B991C9 /* 1.png in Resources */,
-				498187FB27EF3C770015EB86 /* blue_pixel.png in Resources */,
-				498187F327EDE4440015EB86 /* logo.png in Resources */,
-				49D5FF7427FD939400B991C9 /* 2.png in Resources */,
 				498187D727EDDFC70015EB86 /* LaunchScreen.storyboard in Resources */,
-				49D5FF7527FD939400B991C9 /* 4.png in Resources */,
-				49D5FF7327FD939400B991C9 /* 3.png in Resources */,
 				498187D427EDDFC70015EB86 /* Assets.xcassets in Resources */,
-				498187EF27EDE0510015EB86 /* gdun.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
